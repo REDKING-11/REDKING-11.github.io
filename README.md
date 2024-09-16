@@ -3,7 +3,7 @@ Hello There
 
 |years plans     |                               |Payment plan  |
 |----------------|-------------------------------|--------------|
-|get a worker    |`'editor-in-chief'`            |   0€         |
+|get a colleague |`'editor-in-chief'`            |   0€         |
 |                |                               |   0€         |
 |                |                               |   0€         |
 
